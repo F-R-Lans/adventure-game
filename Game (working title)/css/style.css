@@ -1,0 +1,45 @@
+body {
+background-color: #666666;
+margin: 0;
+}
+
+h1 {
+  color: white;
+}
+
+footer {
+  bottom: 0; position: absolute;
+  text-align: center;
+  width: 100%;
+  background-color: black;
+}
+p {
+  color: white;
+}
+
+#image {
+  max-height: 427px;
+}
+#choicemenu {
+  position: absolute;
+  left: 10px;
+  bottom: 150px;
+}
+#textbox {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+  position: absolute;
+  right: 20%;
+  bottom: 275px;
+  border-radius: 10px;
+  border: 2px solid red;
+  overflow: auto;
+}
+#text1 {
+  margin-left:5px;
+}
+#li-options {
+  list-style-type: none;
+
+}
